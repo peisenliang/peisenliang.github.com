@@ -20,9 +20,9 @@ As **NobCoder**, he develops indie games that blend narrative depth with engagin
 
 ## Explore
 
-**Goodreads:** [PeiSenLiang](https://www.goodreads.com/user/show/191687635-pei-liang)
-**Kindle Direct Publishing:** NOT HERE YET
-**Itch.io:** [https://nobcoder.itch.io](https://nobcoder.itch.io)
+- **Goodreads:** [PeiSenLiang](https://www.goodreads.com/user/show/191687635-pei-liang)
+- **Kindle Direct Publishing:** NOT HERE YET
+- **Itch.io:** [https://nobcoder.itch.io](https://nobcoder.itch.io)
 
 ---
 
