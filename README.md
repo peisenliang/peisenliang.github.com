@@ -20,8 +20,7 @@ As NobCoder, he develops indie games that blend narrative depth with engaging me
   - Reddit: [Opposite_Fix_1481](https://www.reddit.com/user/Opposite_Fix_1481/)  
   - Twitter/X: NOT HERE YET
   - Facebook: NOT HERE YET
-  - YouTube: [NobMortal](https://www.youtube.com/c/NobMortal)  
-  - Website: NOT HERE YET
+  - YouTube: [NobMortal](https://www.youtube.com/c/NobMortal) 
 
 ---
 
