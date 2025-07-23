@@ -1,5 +1,7 @@
 ---
+
 layout: default
+
 ---
 
 # peisenliang.site
@@ -18,18 +20,20 @@ As **NobCoder**, he develops indie games that blend narrative depth with engagin
 
 ## Explore
 
-**Books:** NOT HERE YET  
-**Games:** [https://nobcoder.itch.io](https://nobcoder.itch.io)
+**Goodreads:** [https://www.goodreads.com/user/show/191687635-pei-liang]
+**Kindle Direct Publishing:** NOT HERE YET
+**Itch.io:** [https://nobcoder.itch.io](https://nobcoder.itch.io)
 
 ---
 
 ## Contact / Socials
 
-- **Reddit:** Opposite_Fix_1481  
+- **Reddit:** [Opposite_Fix_1481](https://www.reddit.com/user/Opposite_Fix_1481)  
 - **Twitter/X:** NOT HERE YET  
 - **Facebook:** NOT HERE YET  
-- **YouTube:** NobMortal
+- **YouTube:** [NobMortal](https://www.youtube.com/@NobMortal)
 
 ---
 
 Thanks for stopping by. Dive in, explore, and feel free to reach out.
+
