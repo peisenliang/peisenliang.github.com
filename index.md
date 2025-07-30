@@ -14,7 +14,7 @@ Welcome to the official hub for **Pei Sen Liang** — author of Riftwake’s myt
 
 Pei Sen Liang crafts stories that tear apart reality and stitch it back in strange, compelling ways. From dystopian futures to myth-infused thrillers, his work pushes boundaries and invites you to dive deep into unknown worlds.
 
-As **NobCoder**, he develops indie games that blend narrative depth with engaging mechanics.
+As **NobCoder**, he develops indie games that blend narrative depth with engaging mechanics. However, these games were created with Scratch.MIT due to a mental block of not wanting to do real coding.
 
 ---
 
