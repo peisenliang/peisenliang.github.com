@@ -22,7 +22,7 @@ As **NobCoder**, he develops indie games that blend narrative depth with engagin
 
 - **Goodreads:** [PeiSenLiang](https://www.goodreads.com/user/show/191687635-pei-liang)
 - **Kindle Direct Publishing:** NOT HERE YET
-- **Itch.io:** [https://nobcoder.itch.io](https://nobcoder.itch.io)
+- **Itch.io:** [NobCoder](https://nobcoder.itch.io)
 
 ---
 
@@ -36,4 +36,4 @@ As **NobCoder**, he develops indie games that blend narrative depth with engagin
 ---
 
 Thanks for stopping by. Dive in, explore, and feel free to reach out.
-
+To support me go to [Ko-Fi](https://ko-fi.com/peisenliang) or buy my novels and donate on games.
