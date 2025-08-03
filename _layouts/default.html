@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}" />
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}" />
+  {{ content_for_head }}
+</head>
+<body>
+  <header style="padding: 1em; background: #000; color: #eee;">
+    <nav style="display: flex; gap: 2em; font-weight: bold;">
+      <a href="{{ '/' | relative_url }}" style="color: #eee; text-decoration: none;">Home</a>
+      <a href="{{ '/games' | relative_url }}" style="color: #eee; text-decoration: none;">Games</a>
+      <a href="{{ '/novels' | relative_url }}" style="color: #eee; text-decoration: none;">Novels</a>
+      <a href="{{ '/other' | relative_url }}" style="color: #eee; text-decoration: none;">Other</a>
+    </nav>
+  </header>
+
+  <main style="max-width: 900px; margin: 2em auto; padding: 0 1em; color: #ccc;">
+    {{ content }}
+  </main>
+
+  <footer style="text-align: center; padding: 1em; font-size: 0.8em; color: #555;">
+    &copy; {{ "now" | date: "%Y" }} Pei Sen Liang
+  </footer>
+</body>
+</html>
