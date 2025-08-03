@@ -5,18 +5,24 @@ title: Games
 
 # Games by NobCoder
 
-Welcome to the games corner! Here you’ll find all the indie games developed by Pei Sen Liang under the handle **NobCoder**.
+Welcome to the games corner. All games are developed by **Pei Sen Liang**, under the handle **NobCoder**. Projects will be published exclusively on [**Itch.io**](https://nobcoder.itch.io) when complete.
 
-## Games
+---
 
-- **Riftwake: Cosmic Descent**  
-  An apocalyptic sci-fi adventure blending cosmic fantasy elements.  
-  [Play on Scratch](https://scratch.mit.edu/projects/yourprojectlink)
+## Coming Soon
 
-- **Penguin Patrol**  
-  A quirky, chilly defense game inspired by PAIN’s penguin guards.  
-  [Play on Scratch](https://scratch.mit.edu/projects/yourprojectlink)
+These games are currently in development. Check back for release updates on Itch.io.
 
-*No more games*
+- **Silent Citadel**  
+  A mythic game lost in time and snow.
+
+- **Clockwork War**  
+  Tactical apocalyptic warfare.
+
+- **Voiden Corporations**  
+  Corporate science fantasy fueled by void-engine tech and narrative conspiracy.
+
+- **Abyssal Anchors**  
+  Post-apocalyptic world.
 
 ---
