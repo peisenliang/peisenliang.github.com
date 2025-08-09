@@ -27,7 +27,6 @@ Welcome to the contact hub.
 
 - **Reddit:** [Opposite_Fix_1481](https://www.reddit.com/user/Opposite_Fix_1481)  
 - **YouTube:** [NobMortal](https://www.youtube.com/@NobMortal)  
-- **Itch.io (NobCoder):** [https://nobcoder.itch.io](https://nobcoder.itch.io)  
 - **Goodreads:** [PeiSenLiang](https://www.goodreads.com/user/show/191687635-pei-liang)  
 - **Ko-Fi:** [https://ko-fi.com/peisenliang](https://ko-fi.com/peisenliang)
 
