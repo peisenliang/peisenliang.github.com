@@ -11,7 +11,7 @@ Welcome to the contact hub.
 
 ## Personal Emails
 
-- **Private Email:** peisenliang[at]gmail.com  
+- **Private Email:** peisenliang[####]gmail.com  
   *For writing, legal matters, trusted contacts, and family.*
   ***UNAVAILABLE***
 
