@@ -5,14 +5,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>{{ page.title }} | {{ site.title }}</title>
   <meta name="description" content="{{ site.description }}" />
-  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}" />
+  
+  <!-- Main stylesheet -->
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" />
+
   {{ content_for_head }}
+
   <style>
-    /* Reset some default styles */
+    /* Your reset and base styles here, if you want to keep inline */
     *, *::before, *::after {
       box-sizing: border-box;
     }
-
     body {
       margin: 0;
       background-color: #fff;
@@ -27,44 +30,37 @@
       display: flex;
       flex-direction: column;
     }
-
     a {
       color: #004080;
       text-decoration: none;
       font-weight: 600;
       transition: color 0.2s ease;
     }
-
     a:hover,
     a:focus {
       text-decoration: underline;
       outline-offset: 2px;
     }
-
     a:focus-visible {
       outline: 3px solid #004080;
       outline-offset: 3px;
     }
-
     header {
       background-color: #f9f9f9;
       border-bottom: 1px solid #ddd;
       padding: 1rem 2rem;
       flex-shrink: 0;
     }
-
     nav {
       display: flex;
       gap: 2rem;
       max-width: 900px;
       margin: 0 auto;
     }
-
     nav a {
       font-size: 1rem;
       letter-spacing: 0.02em;
     }
-
     main {
       max-width: 900px;
       margin: 2rem auto;
@@ -72,7 +68,6 @@
       flex-grow: 1;
       width: 100%;
     }
-
     footer {
       text-align: center;
       padding: 1rem 1rem;
@@ -83,20 +78,16 @@
       background-color: #fafafa;
       user-select: none;
     }
-
     @media (max-width: 600px) {
       body {
         font-size: 16px;
       }
-
       header {
         padding: 1rem;
       }
-
       nav {
         gap: 1.25rem;
       }
-
       main {
         margin: 1.5rem auto;
       }
@@ -119,5 +110,8 @@
   <footer>
     &copy; {{ "now" | date: "%Y" }} Pei Sen Liang
   </footer>
+
+  <!-- Your JS at the end of body -->
+  <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
 </body>
 </html>
