@@ -5,19 +5,19 @@ title: Novels
 
 # Novels and Stories
 
-Here you’ll find Pei Sen Liang’s growing collection of novels and novellas — a dive into myth-warped apocalyptic realms, cosmic fantasy, and metaphysical fiction.
+Dive into Pei Sen Liang’s expanding collection of novels and novellas — myth-warped apocalyptic realms, cosmic fantasy, and metaphysical fiction await.
 
-## Featured Works
+## Featured Work
 
 - **Riftwake** (Coming Soon)  
-  A sprawling saga that tears through apocalyptic futures and cosmic horror.
+  An epic saga ripping through apocalyptic futures and cosmic horror.
 
 ---
 
 ## Stay Tuned
 
-More stories and excerpts will appear here as I write and publish.
+More stories and excerpts will land here as they’re written and published.
 
 ---
 
-To support my writing, check out my [Ko-Fi](https://ko-fi.com/peisenliang) page or keep an eye on my Kindle Direct Publishing profile (coming soon).
+Support my work on [Ko-Fi](https://ko-fi.com/peisenliang), and watch this space for my Kindle Direct Publishing profile (coming soon).
