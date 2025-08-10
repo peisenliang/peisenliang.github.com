@@ -7,16 +7,48 @@ title: Novels
 
 Dive into Pei Sen Liang’s expanding collection of novels and novellas — myth-warped apocalyptic realms, cosmic fantasy, and metaphysical fiction await.
 
-## Featured Work
+## Works
 
-- **Riftwake** (Coming Soon)  
-  An epic saga ripping through apocalyptic futures and cosmic horror.
+## Riftwake Octology
+An epic saga ripping through apocalyptic futures and cosmic horror.
 
----
+<div class="covers-wrapper">
+  <div class="cover-container">
+    <img src="/assets/images/novel1-kindle.jpg" alt="Sovereign Kingdom - Kindle" />
+    <div class="overlay">
+      <div class="price">$4.99</div>
+      <a href="https://amazon.com/dp/yourlink1" target="_blank" rel="noopener noreferrer">Buy on KDP</a>
+    </div>
+  </div>
 
-## Stay Tuned
+  <div class="cover-container">
+    <img src="/assets/images/novel1-paperback.jpg" alt="Sovereign Kingdom - Paperback" />
+    <div class="overlay">
+      <div class="price">$14.99</div>
+      <a href="https://amazon.com/dp/yourlink1" target="_blank" rel="noopener noreferrer">Buy on KDP</a>
+    </div>
+  </div>
 
-More stories and excerpts will land here as they’re written and published.
+  <div class="cover-container">
+    <img src="/assets/images/novel1-kindle.jpg" alt="Arcology Dominion - Kindle" />
+    <div class="overlay">
+      <div class="price">$4.99</div>
+      <a href="https://amazon.com/dp/yourlink2" target="_blank" rel="noopener noreferrer">Buy on KDP</a>
+    </div>
+  </div>
+
+  <div class="cover-container">
+    <img src="/assets/images/novel1-paperback.jpg" alt="Arcology Dominion - Paperback" />
+    <div class="overlay">
+      <div class="price">$14.99</div>
+      <a href="https://amazon.com/dp/yourlink2" target="_blank" rel="noopener noreferrer">Buy on KDP</a>
+    </div>
+  </div>
+</div> <!-- closing covers-wrapper -->
+
+
+## Timeless Trilogy
+A sci fi saga exploring the properties of time. The future of Riftwake.
 
 ---
 
