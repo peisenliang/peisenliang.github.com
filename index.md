@@ -5,31 +5,31 @@ title: Home
 
 # peisenliang.site
 
-Welcome to the official hub for **Pei Sen Liang** — author of Riftwake’s myth-warped apocalyptic worlds, and storyteller blending Science Fantasy, Cosmic Fantasy, Metaphysical Fiction, sci-fi, and noir in an interconnected mythos. Here you’ll find books and all the creative chaos in one place.
+Welcome to the official home of **Pei Sen Liang** — creator of *Riftwake*’s myth-twisted apocalyptic realms and a master of weaving Science Fantasy, Cosmic Fantasy, Metaphysical Fiction, sci-fi, and noir into a single, interconnected mythos. This is where my books and creative projects converge.
 
 ---
 
 ## About Pei Sen Liang
 
-Pei Sen Liang crafts stories that tear apart reality and stitch it back in strange, compelling ways. From dystopian futures to myth-infused thrillers, his work pushes boundaries and invites you to dive deep into unknown worlds.
+I dismantle reality and rebuild it in unsettling, captivating forms. From bleak futures to myth-drenched thrillers, my stories challenge norms and pull you into unfamiliar, immersive worlds.
 
 ---
 
 ## Explore
 
-- **Goodreads:** [PeiSenLiang](https://www.goodreads.com/user/show/191687635-pei-liang)
-- **Kindle Direct Publishing:** NOT HERE YET
+- **Goodreads:** [PeiSenLiang](https://www.goodreads.com/user/show/191687635-pei-liang)  
+- **Kindle Direct Publishing:** Coming soon
 
 ---
 
-## Contact / Socials
+## Contact & Socials
 
 - **Reddit:** [Opposite_Fix_1481](https://www.reddit.com/user/Opposite_Fix_1481)  
-- **Twitter/X:** NOT HERE YET  
-- **Facebook:** NOT HERE YET  
+- **Twitter/X:** Coming soon  
+- **Facebook:** Coming soon  
 - **YouTube:** [NobMortal](https://www.youtube.com/@NobMortal)
 
 ---
 
-Thanks for stopping by. Dive in, explore, and feel free to reach out.  
-To support me go to [Ko-Fi](https://ko-fi.com/peisenliang) or buy my novels and donate on games.
+Thanks for stopping by. Dive in, explore, and don’t hesitate to reach out.  
+Support my work via [Ko-Fi](https://ko-fi.com/peisenliang) or by purchasing my novels and donating through games.
