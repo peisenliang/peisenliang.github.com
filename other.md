@@ -11,14 +11,14 @@ Welcome to the contact hub.
 
 ## Personal Emails
 
-- **Private Email:**
+- **Private Email:** 
   *Reserved for writing, legal matters, trusted contacts, and family.*  
   ***Currently unavailable***
 
-- **Public Email:** [contact.peisenliang@gmail.com](mailto:contact.peisenliang@gmail.com)
+- **Public Email:** [contact.peisenliang@gmail.com](mailto:contact.peisenliang@gmail.com) 
   *For fan mail, social inquiries, and general communication.*
 
-- **PAIN Official Email:** pain-micro.gov@gmail.com  
+- **PAIN Official Email:** pain-micro.gov@gmail.com   
   *For all official Penguinize Arctic Island Nation business.*
 
 ---
