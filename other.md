@@ -45,7 +45,7 @@ Welcome to the contact hub.
 
 PAIN is a sovereign micronation inspired by Arctic endurance and penguin culture. Ruled by Emperor Penguin Pei Sen Liang, PAIN champions environmental stewardship, cultural uniqueness, and symbolic sovereignty.
 
-**Official Website:** [pain-micro.gov]([https://pain-micro.gov](https://peisenliang.github.io/pain-micro.gov/))
+**Official Website:** [pain-micro.gov](https://pain-micro.gov](https://peisenliang.github.io/pain-micro.gov/))
 
 **National Holidays:**  
 - Penguin Day (January 20)  
