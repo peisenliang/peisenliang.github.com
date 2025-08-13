@@ -24,7 +24,6 @@ I dismantle reality and rebuild it in unsettling, captivating forms. From bleak 
 
 ## Contact & Socials
 
-- **Reddit:** [Opposite_Fix_1481](https://www.reddit.com/user/Opposite_Fix_1481)  
 - **Twitter/X:** Coming soon  
 - **Facebook:** Coming soon  
 - **YouTube:** [NobMortal](https://www.youtube.com/@NobMortal)
