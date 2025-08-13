@@ -11,7 +11,7 @@ Welcome to the contact hub.
 
 ## Personal Emails
 
-- **Private Email:** peisenliang[####]gmail.com  
+- **Private Email:**
   *Reserved for writing, legal matters, trusted contacts, and family.*  
   ***Currently unavailable***
 
@@ -25,7 +25,6 @@ Welcome to the contact hub.
 
 ## Social & Online Presence
 
-- **Reddit:** [Opposite_Fix_1481](https://www.reddit.com/user/Opposite_Fix_1481)  
 - **YouTube:** [NobMortal](https://www.youtube.com/@NobMortal)  
 - **Goodreads:** [PeiSenLiang](https://www.goodreads.com/user/show/191687635-pei-liang)  
 - **Ko-Fi:** [ko-fi.com/peisenliang](https://ko-fi.com/peisenliang)
@@ -46,7 +45,7 @@ Welcome to the contact hub.
 
 PAIN is a sovereign micronation inspired by Arctic endurance and penguin culture. Ruled by Emperor Penguin Pei Sen Liang, PAIN champions environmental stewardship, cultural uniqueness, and symbolic sovereignty.
 
-**Official Website:** [pain-micro.gov](https://pain-micro.gov) *(under construction)*
+**Official Website:** [pain-micro.gov](https://pain-micro.gov)
 
 **National Holidays:**  
 - Penguin Day (January 20)  
