@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# PeiSenLiang.Com
+# Introduction
 
 Welcome to the official home of **Pei Sen Liang** — creator of *Riftwake*’s myth-twisted apocalyptic realms and a master of weaving Science Fantasy, Cosmic Fantasy, Metaphysical Fiction, sci-fi, and noir into a single, interconnected mythos. This is where my books and creative projects converge.
 
